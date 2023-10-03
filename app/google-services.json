@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "602657045783",
+    "project_id": "personal-stylist-26803",
+    "storage_bucket": "personal-stylist-26803.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602657045783:android:e56f8c8ac1c3eb778d4b52",
+        "android_client_info": {
+          "package_name": "com.example.personalstylist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDei-z-kEJJC5mNEDgnT8mGbKK-4leuKVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
